@@ -5,6 +5,7 @@ Build a CI/CD pipeline with GitHub Actions
 ## 20MIC0026
 
 ### Steps to create a new project using archetypes
+
 1) Create the project (In parent forder): mvn archetype:generate -DgroupId=com.asp.app -DartifactId=ADDA_Activity4 -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 <br>
 2) Edit the generated project as per requirements: cd ADDA_Activity4
